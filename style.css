@@ -1,0 +1,117 @@
+.main_container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    flex-direction: column;
+    justify-content: space-between;
+}
+ h5 {
+    
+    margin-top: 16px;
+}
+
+#head_section{
+    width: 30vw;
+    height: 10vh;
+    display: flex;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-left: 475px;
+    margin-top: 50px;
+    justify-content: center;
+    
+}
+
+#Header_body{
+    width: 30vw;
+    height: 10vh;
+    display: flex;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: black;  
+    margin-left: 475px;
+    margin-top: 50px;
+}
+
+#Header_body p{
+    margin-left: 155px;
+    margin-top: 14px;
+    
+}
+.body_part{
+    width: 10vw;
+    height: 10vh;
+    display: flex;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black; 
+    margin-left: 5px;
+}
+.body_part_namah{
+    width: 10vw;
+    height: 10vh;
+    display: flex;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black; 
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.body_part_om{
+    width: 10vw;
+    height: 10vh;
+    display: flex;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black; 
+}
+.body_part_om p{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.body_part p{
+    margin-top: 10px;
+    margin-left: 2px;
+}
+
+
+.body_section_part{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.body_section_part p {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.bottom_part{
+    width: 45vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row !important;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;  
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.bottom_part p{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.bottom_div{
+    display: flex;
+    justify-content: space-between;
+}
+
